@@ -28,6 +28,7 @@ module.exports = () => {
       }),
       new WebpackPwaManifest({
         name: 'JATE',
+        inject: true,
         short_name: 'Manifest',
         description: 'Terminal',
         background_color: '#ffffff',
@@ -48,7 +49,7 @@ module.exports = () => {
         },
         {
           test: /\.(png|svg|jpg|jpeg|gif)$/i,
-          type: 'asset/resource',
+          type: 'src/images',
         },
         {
           test: /\.m?js$/,
