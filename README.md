@@ -42,7 +42,7 @@ Usage of this application is to test web pack and performance while building a t
 ## Deployed Application
 *A list of links of deployed applications:*
 
-- [DeployedAPP](#)
+- [DeployedAPP](https://shielded-scrubland-05990-bc0339af040b.herokuapp.com/)
 
 ## Contributing
 *A list of contributors on this project includes:*
