@@ -36,7 +36,7 @@ Usage of this application is to test web pack and performance while building a t
 
 ## Screenshot/Video
 
-![IMAGE 1](#)
+![IMAGE 1](./client/assets/images/jate.png)
 
 
 ## Deployed Application
